@@ -230,14 +230,14 @@
     </url>
   
     <url>
-      <loc>https://docs.netapp.com/zh-tw/ontap-tools-vmware-vsphere-911/configure/concept_virtual_storage_console_and_vasa_provider_log_files.html</loc>
+      <loc>https://docs.netapp.com/zh-tw/ontap-tools-vmware-vsphere-911/manage/concept_virtual_storage_console_and_vasa_provider_log_files.html</loc>
       
       <lastmod>2023-04-20T12:22:08+00:00</lastmod>
       
     </url>
   
     <url>
-      <loc>https://docs.netapp.com/zh-tw/ontap-tools-vmware-vsphere-911/manage/concept_virtual_storage_console_and_vasa_provider_log_files.html</loc>
+      <loc>https://docs.netapp.com/zh-tw/ontap-tools-vmware-vsphere-911/configure/concept_virtual_storage_console_and_vasa_provider_log_files.html</loc>
       
       <lastmod>2023-04-20T12:22:08+00:00</lastmod>
       
@@ -293,14 +293,14 @@
     </url>
   
     <url>
-      <loc>https://docs.netapp.com/zh-tw/ontap-tools-vmware-vsphere-911/deploy/</loc>
+      <loc>https://docs.netapp.com/zh-tw/ontap-tools-vmware-vsphere-911/manage/</loc>
       
       <lastmod>2023-04-20T12:22:08+00:00</lastmod>
       
     </url>
   
     <url>
-      <loc>https://docs.netapp.com/zh-tw/ontap-tools-vmware-vsphere-911/manage/</loc>
+      <loc>https://docs.netapp.com/zh-tw/ontap-tools-vmware-vsphere-911/deploy/</loc>
       
       <lastmod>2023-04-20T12:22:08+00:00</lastmod>
       
@@ -463,19 +463,19 @@
     <url>
       <loc>https://docs.netapp.com/zh-tw/ontap-tools-vmware-vsphere-911//search.html</loc>
       
-      <lastmod>2023-04-20T12:22:23+00:00</lastmod>
+      <lastmod>2023-05-23T20:50:24+00:00</lastmod>
       
     </url>
   
     <url>
-      <loc>https://docs.netapp.com/zh-tw/ontap-tools-vmware-vsphere-911/configure/task_add_storage_systems.html</loc>
+      <loc>https://docs.netapp.com/zh-tw/ontap-tools-vmware-vsphere-911/manage/task_add_storage_systems.html</loc>
       
       <lastmod>2023-04-20T12:22:08+00:00</lastmod>
       
     </url>
   
     <url>
-      <loc>https://docs.netapp.com/zh-tw/ontap-tools-vmware-vsphere-911/manage/task_add_storage_systems.html</loc>
+      <loc>https://docs.netapp.com/zh-tw/ontap-tools-vmware-vsphere-911/configure/task_add_storage_systems.html</loc>
       
       <lastmod>2023-04-20T12:22:08+00:00</lastmod>
       
@@ -510,14 +510,14 @@
     </url>
   
     <url>
-      <loc>https://docs.netapp.com/zh-tw/ontap-tools-vmware-vsphere-911/configure/task_check_for_datastore_compliance_with_the_mapped_storage_capability_profile.html</loc>
+      <loc>https://docs.netapp.com/zh-tw/ontap-tools-vmware-vsphere-911/manage/task_check_for_datastore_compliance_with_the_mapped_storage_capability_profile.html</loc>
       
       <lastmod>2023-04-20T12:22:08+00:00</lastmod>
       
     </url>
   
     <url>
-      <loc>https://docs.netapp.com/zh-tw/ontap-tools-vmware-vsphere-911/manage/task_check_for_datastore_compliance_with_the_mapped_storage_capability_profile.html</loc>
+      <loc>https://docs.netapp.com/zh-tw/ontap-tools-vmware-vsphere-911/configure/task_check_for_datastore_compliance_with_the_mapped_storage_capability_profile.html</loc>
       
       <lastmod>2023-04-20T12:22:08+00:00</lastmod>
       
@@ -853,14 +853,14 @@
     </url>
   
     <url>
-      <loc>https://docs.netapp.com/zh-tw/ontap-tools-vmware-vsphere-911/configure/task_set_default_credentials_for_storage_systems.html</loc>
+      <loc>https://docs.netapp.com/zh-tw/ontap-tools-vmware-vsphere-911/manage/task_set_default_credentials_for_storage_systems.html</loc>
       
       <lastmod>2023-04-20T12:22:08+00:00</lastmod>
       
     </url>
   
     <url>
-      <loc>https://docs.netapp.com/zh-tw/ontap-tools-vmware-vsphere-911/manage/task_set_default_credentials_for_storage_systems.html</loc>
+      <loc>https://docs.netapp.com/zh-tw/ontap-tools-vmware-vsphere-911/configure/task_set_default_credentials_for_storage_systems.html</loc>
       
       <lastmod>2023-04-20T12:22:08+00:00</lastmod>
       
