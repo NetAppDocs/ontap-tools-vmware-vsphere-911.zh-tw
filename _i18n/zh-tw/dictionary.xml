@@ -1750,7 +1750,6 @@
   <block id="b6b2c55f92e8e04471c740483e69a795" category="paragraph">您可以增加或減少NFS資料存放區的大小、但對於VMFS資料存放區、您只能增加大小。使用「自動擴充和縮減」選項的不支援資料存放區調整大小FlexGroup 。作為VVols資料存放區一部分的傳統資料存放區和流通量的一部分、無法縮減至現有大小以下、但最多可增加120%。FlexGroup FlexVol在FlexGroup 這些功能區和FlexVol 功能區上啟用預設快照。</block>
   <block id="1b837800f24f729eb8e73a102257c0bd" category="admonition">如果您使用ASA All SAN Array（更新版本）類型的儲存平台ONTAP 搭配使用、則只能建立vmdk大小大於16TB的vVols資料存放區。</block>
   <block id="0e6fc56cbe91d72cb03e33a904ae9ab3" category="list-text">在導覽窗格中、選取包含資料存放區的資料中心。</block>
-  <block id="a15d1bf5dee929fddbf2e03ae0f830e9" category="list-text">在資料存放區上按一下滑鼠右鍵、然後選取「* NetApp ONTAP S庫 工具*&gt;*指派QoS*」。</block>
   <block id="425e99780c82b74f333dd7da3068f492" category="list-text">在「調整大小」對話方塊中、指定資料存放區的新大小、然後按一下「*確定*」。</block>
   <block id="29b33d6a4971ded7e90ffb22fa8e685d" category="paragraph">您可以執行「Storage Systems（儲存系統）」功能表中的「*重新探索全部*」選項、手動更新「Storage Systems and Dashboard（儲存系統和儀表板）」下的儲存清單、或等待下次排程的重新整理。</block>
   <block id="1d4b48c436900e10435d1573abe6912d" category="paragraph">請參閱ONTAP 《VMware®vSphere部署與設定指南》（9.7版）中的「VMware®VMware®工具」「設定使用者角色與權限」一節。</block>
@@ -1967,7 +1966,6 @@
   <block id="bbf1057ad175e1e1664e224351019ac9" category="sidebar">NetApp匯入公用程式-影片</block>
   <block id="72393f9ef0b6b69526a30ac7ce5276bc" category="sidebar">NetApp社群ONTAP -功能強大的工具</block>
   <block id="08420002b9383a71acf39a2e9f9d504a" category="sidebar">VMware vSphere 9.11文件適用的工具ONTAP</block>
-  <block id="ed9018b2e8611a3d2c03bb6a205b9715" category="sidebar">VMware vSphere適用的工具ONTAP</block>
   <block id="a7c1f19a0afcdde0b988ba73af98d366" category="sidebar">設定ONTAP VMware工具</block>
   <block id="d323122d1d04a198d3dd6ef4bae01b87" category="sidebar">設定ESXi設定</block>
   <block id="16b28c768a3808adf59f65e0b99fedfe" category="sidebar">設定客體作業系統</block>
@@ -2006,4 +2004,5 @@
   <block id="dd38f906b37d412de7d1c1dcf4cbf31c" category="paragraph"><block ref="dd38f906b37d412de7d1c1dcf4cbf31c" category="inline-link-macro-rx"></block></block>
   <block id="8acb58cbd50ef1b468a020ee0bd351d3" category="inline-link-macro"><block ref="8acb58cbd50ef1b468a020ee0bd351d3" category="inline-link-rx"></block></block>
   <block id="2352c4e1f4d0024ade0869e00e6243f4" category="paragraph"><block ref="2352c4e1f4d0024ade0869e00e6243f4" category="inline-link-macro-rx"></block></block>
+  <block id="bdc5a4ba1115f3f724e1f81e7f41eeef" category="list-text">在資料存放區上按一下滑鼠右鍵、然後選取 * NetApp ONTAP tools* &gt; * Resize non-vVols datastore* 。</block>
 </blocks>
