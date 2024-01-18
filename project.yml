@@ -1,12 +1,12 @@
 ---
 settings:
   name: ONTAP tools for VMware vSphere 9.11
+  downlevel: true
   internal:
     pdf_enabled: true
   prod:
     pdf_enabled: true
     harmony_enabled: false
-  downlevel: true
   versions:
   - version-number: '9.11'
     url: "/ontap-tools-vmware-vsphere-911"
